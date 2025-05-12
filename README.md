@@ -289,7 +289,8 @@ Enter your choice:
 
 Enter your choice: 5
 
-* *Output:*  
+* *Output:*
+
 Inventory Value Breakdown  
 Computer monitor (Price: $620,000.00, Qty: 15) = $93,000,000.00  
 Computer case (Price: $300,000.26, Qty: 15) = $45,000,003.90  
