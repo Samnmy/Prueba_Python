@@ -80,12 +80,12 @@ Enter your choice:
     Product 'Keyboard' added/updated successfully.
 
     --- Inventory Management System ---
-1. Add Product  
-2. Consult Product  
-3. Update Product Price  
-4.DeleteProduct  
-5. Calculate Total Inventory Value  
-6.Exit  
+1. Add Product
+2. Consult Product
+3. Update Product Price
+4. DeleteProduct
+5. Calculate Total Inventory Value
+6. Exit  
 
 Enter your choice:
     
