@@ -48,12 +48,12 @@ When you start the program, some products are automatically added to the invento
 
 * *Exit:*
     
-    Product 'Computer monitor' added/updated successfully.
-    Product 'Computer case' added/updated successfully.
-    Product 'Motherboard' added/updated successfully.
-    Product 'RAM' added/updated successfully.
-    Product 'Graphics card' added/updated successfully.
-    Product 'hard disk SSD' added/updated successfully.
+    Product 'Computer monitor' added/updated successfully.  
+    Product 'Computer case' added/updated successfully.  
+    Product 'Motherboard' added/updated successfully.  
+    Product 'RAM' added/updated successfully.  
+    Product 'Graphics card' added/updated successfully.  
+    Product 'hard disk SSD' added/updated successfully.  
 
     --- Inventory Management System ---
     1. Add Product
