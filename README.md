@@ -122,188 +122,166 @@ Enter your choice:
 
 * *Entrance:*
     
-    Enter your choice: 1
-    Enter product name: Mouse
-    Enter product price: abc
+    Enter your choice: 1  
+    Enter product name: Mouse  
+    Enter product price: abc  
     
 
 * *Exit:*
-    
-    Invalid input. Price must be a number and quantity an integer.
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
+Invalid input. Price must be a number and quantity an integer.
 
----
+   --- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
+
 
 ### 5. Option 2: Consult an Existing Product
 
 * *Entrance:*
     
-    Enter your choice: 2
-    Enter product name to consult: Graphics Card
+    Enter your choice: 2  
+    Enter product name to consult: Graphics Card  
     
 
 * *Exit:*
     
 
-        Product Details for 'Graphics Card'
-    Name: Graphics Card
-    Price: $4000000.12
-    Quantity: 40
+  Product Details for 'Graphics Card'
+    Name: Graphics Card  
+    Price: $4000000.12  
+    Quantity: 40  
     ----------------------------------------
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+   --- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 6. Option 2: Consult a Non-Existing Product
 
 * *Entrance:*
     
-    Enter your choice: 2
-    Enter product name to consult: Curved monitor
+    Enter your choice: 2  
+    Enter product name to consult: Curved monitor  
     
 
 * *Exit:*
     
-    Product 'Curved Monitor' not found in inventory.
+Product 'Curved Monitor' not found in inventory.
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+--- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 7. Option 3: Update the Price of a Product
 
 * *Entrance:*
     
-    Enter your choice: 3
-    Enter product name to update price: computer monitor
-    Enter new price: 620000.00
+    Enter your choice: 3  
+    Enter product name to update price: computer monitor  
+    Enter new price: 620000.00  
     
 
 * *Exit:*
     
-    Price for 'computer monitor' updated from $600000.85 to $620000.00.
+Price for 'computer monitor' updated from $600000.85 to $620000.00.
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+--- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 8. Option 4: Delete a Product (Confirming Deletion)
 
 * *Entrance:*
     
-    Enter your choice: 4
-    Enter product name to delete: Keyboard
-    The product 'Keyboard' exists
-    Are you sure you want to delete 'Keyboard' with a price of '75000.5' and with '20' quantities? (yes/no): yes
+    Enter your choice: 4  
+    Enter product name to delete: Keyboard  
+    The product 'Keyboard' exists  
+    Are you sure you want to delete 'Keyboard' with a price of '75000.5' and with '20' quantities? (yes/no): yes  
     
 
 * *Exit:*
     
-    Product 'Keyboard' deleted successfully.
-
     --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 9. Option 4: Delete a Product (Cancelling Deletion)
 
 * *Entrance:*
     
-    Enter your choice: 4
-    Enter product name to delete: Hard Disk SSD
-    The product 'Hard Disk SSD' exists
-    Are you sure you want to delete 'Hard Disk SSD' with a price of '100000.14451' and with '35' quantities? (yes/no): no
+    Enter your choice: 4  
+    Enter product name to delete: Hard Disk SSD  
+    The product 'Hard Disk SSD' exists  
+    Are you sure you want to delete 'Hard Disk SSD' with a price of '100000.14451' and with '35' quantities? (yes/no): no  
     
 
 * *Exit:*
     
-    Deletion of 'Hard Disk SSD' cancelled.
+Deletion of 'Hard Disk SSD' cancelled.
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+--- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 10. Option 4: Try to Delete a Non-Existing Product
 
 * *Entrance:*
     
-    Enter your choice: 4
-    Enter product name to delete: Mouse
+    Enter your choice: 4  
+    Enter product name to delete: Mouse  
     
 
 * *Exit:*
     
-    The product 'Mouse' does not exist
-    Product 'Mouse' not found in inventory. Cannot delete.
+The product 'Mouse' does not exist
+Product 'Mouse' not found in inventory. Cannot delete.
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+--- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 11. Option 5: Calculate Total Inventory Value
 
@@ -316,61 +294,55 @@ Enter your choice: 5
 * *Output:*
 
 --- Inventory Value Breakdown ---
-Computer monitor (Price: $620,000.00, Qty: 15) = $93,000,000.00
-Computer case (Price: $300,000.26, Qty: 15) = $45,000,003.90
-Motherboard (Price: $300,000.32, Qty: 15) = $45,000,000.80
-RAM (Price: $80,000.45, Qty: 40) = $32,000,018.00
-Graphics card (Price: $4000000.12, Qty: 40) = $160000004.80
-    Hard disk ssd (Price: $100000.14, Qty: 35) = $3500004.90
-    ------------------------------------------
-    Total Inventory Value: $225500036.40
-    ------------------------------------------
+Computer monitor (Price: $620,000.00, Qty: 15) = $93,000,000.00  
+Computer case (Price: $300,000.26, Qty: 15) = $45,000,003.90  
+Motherboard (Price: $300,000.32, Qty: 15) = $45,000,000.80  
+RAM (Price: $80,000.45, Qty: 40) = $32,000,018.00  
+Graphics card (Price: $4000000.12, Qty: 40) = $160000004.80  
+Hard disk ssd (Price: $100000.14, Qty: 35) = $3500004.90  
+------------------------------------------
+Total Inventory Value: $225500036.40
+------------------------------------------
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+--- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 12. Invalid Option
 
 * *Entrance:*
     
-    Enter your choice: 9
+    Enter your choice: 9  
     
 
 * *Exit:*
     
-    Invalid option. Please try again.
+Invalid option. Please try again.  
 
-    --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
-
----
+--- Inventory Management System ---
+1. Add Product  
+2. Consult Product  
+3. Update Product Price
+4. DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
+Enter your choice: 
 
 ### 13. Option 6: Exit the System
 
 * *Enter:*
 
-Enter your choice: 6
+Enter your choice: 6  
 
 * *Exit:*
 
-Exiting Inventory Management System. Goodbye!
+Exiting Inventory Management System. Goodbye!  
 
-(The program will terminate at this point)
+(The program will terminate at this point)  
