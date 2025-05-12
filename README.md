@@ -69,10 +69,10 @@ Enter your choice:
 
 * *Entrance:*
     
-    Enter your choice: 1
-    Enter product name: Keyboard
-    Enter product price: 75000.50
-    Enter product quantity: 20
+    Enter your choice: 1  
+    Enter product name: Keyboard  
+    Enter product price: 75000.50  
+    Enter product quantity: 20  
     
 
 * *Exit:*
@@ -80,17 +80,15 @@ Enter your choice:
     Product 'Keyboard' added/updated successfully.
 
     --- Inventory Management System ---
-    1. Add Product
-    2. Consult Product
-    3. Update Product Price
-    4.DeleteProduct
-    5. Calculate Total Inventory Value
-    6.Exit
-    -----------------------------------
-    Enter your choice:
-    
+1. Add Product  
+2. Consult Product  
+3. Update Product Price  
+4.DeleteProduct  
+5. Calculate Total Inventory Value  
+6.Exit  
 
----
+Enter your choice:
+    
 
 ### 3. Option 1: Update the Quantity of an Existing Product
 
