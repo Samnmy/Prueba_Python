@@ -56,12 +56,13 @@ When you start the program, some products are automatically added to the invento
     Product 'hard disk SSD' added/updated successfully.  
 
     --- Inventory Management System ---
-    1. Add Product  
-    2. Consult Product  
-    3. Update Product Price  
-    4.DeleteProduct  
-    5. Calculate Total Inventory Value  
-    6.Exit  
+1. Add Product  
+2. Consult Product  
+3. Update Product Price  
+4.DeleteProduct  
+5. Calculate Total Inventory Value
+6. Exit
+   
     -----------------------------------
     Enter your choice:
     
