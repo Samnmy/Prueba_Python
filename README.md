@@ -63,7 +63,7 @@ When you start the program, some products are automatically added to the invento
 5. Calculate Total Inventory Value
 6. Exit
    
-    ---- Enter your choice: ----
+Enter your choice: 
 
 ### 2. Option 1: Add a New Product
 
