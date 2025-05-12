@@ -96,16 +96,16 @@ Enter your choice:
 
 * *Entrance:*
     
-    Enter your choice: 1
-    Enter product name: ram
-    Enter product price: 80000.45
-    Enter product quantity: 10
+    Enter your choice: 1  
+    Enter product name: ram  
+    Enter product price: 80000.45  
+    Enter product quantity: 10  
     
 
 * *Exit:*
-    
-    Product 'ram' already exists. Updating quantity.
-    Product 'ram' added/updated successfully.
+
+Product 'ram' already exists. Updating quantity.
+Product 'ram' added/updated successfully.
 
   --- Inventory Management System ---
 1. Add Product  
