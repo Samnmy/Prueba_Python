@@ -36,6 +36,7 @@ This is a Python-based console application designed to manage product inventory.
 
 Below are examples of how to interact with the system and the expected outputs.
 
+<!-- Esto es un ejemplo de un bloque de código en README.md -->
 ### 1. Start of the Program (Initial Products)
 
 When you start the program, some products are automatically added to the inventory as default values.
