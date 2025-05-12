@@ -152,12 +152,10 @@ Enter your choice:
 
 * *Exit:*
     
-
-  Product Details for 'Graphics Card'
-    Name: Graphics Card  
-    Price: $4000000.12  
-    Quantity: 40  
-    ----------------------------------------
+Product Details for 'Graphics Card'  
+Name: Graphics Card  
+Price: $4000000.12  
+Quantity: 40   
 
    --- Inventory Management System ---
 1. Add Product  
@@ -292,17 +290,16 @@ Enter your choice:
 Enter your choice: 5
 
 * *Output:*
-
---- Inventory Value Breakdown ---
+Inventory Value Breakdown  
 Computer monitor (Price: $620,000.00, Qty: 15) = $93,000,000.00  
 Computer case (Price: $300,000.26, Qty: 15) = $45,000,003.90  
 Motherboard (Price: $300,000.32, Qty: 15) = $45,000,000.80  
 RAM (Price: $80,000.45, Qty: 40) = $32,000,018.00  
 Graphics card (Price: $4000000.12, Qty: 40) = $160000004.80  
 Hard disk ssd (Price: $100000.14, Qty: 35) = $3500004.90  
-------------------------------------------
+
 Total Inventory Value: $225500036.40
-------------------------------------------
+
 
 --- Inventory Management System ---
 1. Add Product  
